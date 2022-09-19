@@ -1,0 +1,16 @@
+[debug] [2022-09-19T10:31:06.983Z] ----------------------------------------------------------------------
+[debug] [2022-09-19T10:31:06.988Z] Command:       /root/.nvm/versions/node/v14.18.2/bin/node /root/.nvm/versions/node/v14.18.2/pnpm-global/4/node_modules/firebase-tools/lib/bin/firebase.js login
+[debug] [2022-09-19T10:31:06.989Z] CLI Version:   11.9.0
+[debug] [2022-09-19T10:31:06.990Z] Platform:      linux
+[debug] [2022-09-19T10:31:06.990Z] Node Version:  v14.18.2
+[debug] [2022-09-19T10:31:06.990Z] Time:          Mon Sep 19 2022 10:31:06 GMT+0000 (Coordinated Universal Time)
+[debug] [2022-09-19T10:31:06.991Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=681842463&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
